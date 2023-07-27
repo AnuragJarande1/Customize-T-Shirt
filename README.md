@@ -1,5 +1,5 @@
 # Customize-T-Shirt
-Simple Travels and Tour Webpages with videos in the background
+
 
 # Authors
 @AnuragJarande1
